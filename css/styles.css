@@ -26,3 +26,7 @@ body {
 .navbar-1:hover {
   color: #404bbf;
 }
+
+.navbar-1:link {
+  color: #404bbf;
+}
