@@ -17,39 +17,39 @@ body {
   color: #2e2f42;
 }
 
-.navbar-1 {
+.navbar {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.navbar-1:hover {
+.navbar:hover {
   color: #404bbf;
 }
 
-.navbar-1:link {
+.navbar:link {
   color: #404bbf;
 }
 
-.adres-1 {
+.adres {
   font-style: normal;
   color: #434455;
 }
-.adres-2 {
+.adres2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.adres-2:hover {
+.adres2:hover {
   color: #404bbf;
 }
-.adres-2:link {
+.adres2:link {
   color: #404bbf;
 }
 
-.section-1 {
+.section1 {
   background-color: #2e2f42;
 }
-.baslik-1 {
+.baslik1 {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -73,21 +73,21 @@ body {
   background-color: #404bbf;
 }
 
-.mission-1 {
+.mission1 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.mission-2 {
+.mission2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.section-3 {
+.section3 {
   background-color: #f4f4fd;
 }
-.section-3-1 {
+.section31 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -95,17 +95,17 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.team-1 {
+.team1 {
   background-color: #ffffff;
 }
-.team-2 {
+.team2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team-3 {
+.team3 {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
