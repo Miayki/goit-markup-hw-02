@@ -31,7 +31,7 @@ body {
   color: #404bbf;
 }
 
-.adres {
+.telmail {
   font-style: normal;
   color: #434455;
 }
@@ -39,10 +39,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.adres2:hover {
+.telmail:hover {
   color: #404bbf;
 }
-.adres2:link {
+.telmail:link {
   color: #404bbf;
 }
 
