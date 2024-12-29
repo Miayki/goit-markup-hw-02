@@ -39,6 +39,9 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.adres-2:hover:link {
+.adres-2:hover {
+  color: #404bbf;
+}
+.adres-2:link {
   color: #404bbf;
 }
