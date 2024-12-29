@@ -45,3 +45,14 @@ body {
 .adres-2:link {
   color: #404bbf;
 }
+
+.section-1 {
+  background-color: #2e2f42;
+}
+.baslik-1 {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
