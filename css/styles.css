@@ -33,11 +33,11 @@ body {
 
 .adres-1 {
   font-style: normal;
+  color: #434455;
 }
 .adres-2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .adres-2:hover {
   color: #404bbf;
