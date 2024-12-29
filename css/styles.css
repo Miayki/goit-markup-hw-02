@@ -30,3 +30,15 @@ body {
 .navbar-1:link {
   color: #404bbf;
 }
+
+.adres-1 {
+  font-style: normal;
+}
+.adres-2 {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.adres-2:hover:link {
+  color: #404bbf;
+}
