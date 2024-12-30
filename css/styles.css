@@ -17,17 +17,17 @@ body {
   color: #2e2f42;
 }
 
-.navbar {
+.nav {
   color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.navbar:hover {
+.nav:hover {
   color: #404bbf;
 }
 
-.navbar:link {
+.nav:link {
   color: #404bbf;
 }
 
