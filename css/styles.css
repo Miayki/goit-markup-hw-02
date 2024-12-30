@@ -35,9 +35,8 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.telmail:hover:link {
-  color: #404bbf;
-}
+.telmail:hover{color:#404bbf}
+.telmail:link{color:#404bbf}
 
 .sectionone {
   background-color: #2e2f42;
