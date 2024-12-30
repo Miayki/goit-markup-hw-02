@@ -16,9 +16,10 @@ body {
 .logostudio {
   color: #2e2f42;
 }
-
 .nav {
   color: #2e2f42;
+}
+.nav {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
